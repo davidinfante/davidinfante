@@ -1,4 +1,9 @@
 ### Hi there 👋
+# Name's David, I'm currently finishing my Computer Engineering Degree at University of Granada (UGR), Spain.
+# ダビッドです、グラナダの大学でコンピュータ工学を勉強していました。(スペイン)
+# 📫 E-mail / メール　: davidinfante1997@gmail.com
+
+
 
 <!--
 **davidinfante/davidinfante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
