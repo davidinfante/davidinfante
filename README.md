@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm David, a Computer Engineering graduate at University of Granada (UGR), Spain.  
+I'm David, a Computer Engineering graduate at University of Granada, Spain, that likes to develop things 😎.  
 ダビッドです、グラナダの大学でコンピュータ工学を勉強していました。(スペイン)  
 📫 E-mail / メール: davidinfante1997@gmail.com  
 <a href="https://davidinfante.github.io/" target="_blank">
