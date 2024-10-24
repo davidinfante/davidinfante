@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm David, a Computer Engineering graduate at University of Granada (Spain), specialized in Software Engineering! I really like to develop cool things and learn interesting stuff 😎. I focus on writing clean, extensible and maintenable code. I also like to figure out easy solutions for complex problems.  
-ダビッドです、グラナダの大学でコンピュータ工学を勉強していました。(スペイン)  
+I'm David, a Computer Engineering graduate at University of Granada (Spain), specialized in Software Engineering
 📫 E-mail / メール: davidinfante1997@gmail.com  
 <a href="https://davidinfante.github.io/" target="_blank">
   Personal website
